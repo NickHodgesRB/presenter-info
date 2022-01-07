@@ -59,7 +59,7 @@ Here are a few things I like to see in a conference:
 
 Here's what I will do when invited as a presenter at your event.
 
-- [x] **Deliver a fitting talk for the intended audience.** I tend to deliver a unique talk every time I can and it will be an up-to-date talk.
+- [x] **Deliver a proper talk for the intended audience.** I tend to deliver a unique talk every time I can and it will be an up-to-date talk.
 - [x] **Deliver the talk on time and sticking to the defined format and duration.** I need to know what time frame you expect and what format you want it to be in. I will show up at the times you need me to be there and set up on stage with enough time for AV people to wire up microphones and other equipment.
 - [x] **Be available for conference attendees.** Conferences to me are more about the people than about the content. Therefore I will try to be there for questions and feedback.
 - [x] **Be available for other promotional parts of the event.** I am happy to do interviews or give you feedback to use in conference wrap-ups
