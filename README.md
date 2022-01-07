@@ -24,9 +24,10 @@ In case you are interested in seeing me in action, here are some talks I liked:
 
 > Nick Hodges is the Developer Advocate for Rollbar and has been in love with code since he wrote crude text-based adventure games in BASIC using paper tape and a TTY Model 33.  Nick really got going with software development when he picked up a copy of Turbo Pascal for Windows and followed that on with Delphi.  Currently Nick is interested in Typescript and Angular development.  Nick has a BA in Classical Languages from Carleton College and an MS in Information Technology Management from the Naval Postgraduate School.  In his career he has been a busboy, a cook, a caddie, a telemarketer (for which he apologizes), an Office Manager, a high school teacher, a Naval Intelligence officer, a software developer, a product manager, and a software development manager. He's a passionate Minnesota sports fan -- especially the Timberwolves -- as he grew up and went to college in the Land of 10,000 Lakes.  He currrently lives in Phoenixville, PA.
 
-### 200 Word Bio
+### 100 Word Bio
 
-> Nick Hodges is the Developer Advocate for Rollbar.  A long time Delphi Developer, Nick is currently interested in Typescript and Angular development.    He lives in Phoenixville, PA.
+> Nick Hodges is the Developer Advocate for Rollbar and has been in love with code since he wrote crude text-based adventure games in BASIC using paper tape and a TTY Model 33.  Nick really got going with software development when he picked up a copy of Turbo Pascal for Windows and followed that on with Delphi.  Currently Nick is interested in Typescript and Angular development. He's a passionate Minnesota sports fan -- especially the Timberwolves -- as he grew up and went to college in the Land of 10,000 Lakes.  He currently lives in Phoenixville, PA.
+
 
 ## :love_letter: I am available for...
 
