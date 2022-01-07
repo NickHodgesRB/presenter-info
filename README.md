@@ -52,9 +52,9 @@ In case you are interested in seeing me in action, here are some talks I liked:
 
 Here are a few things I like to see in a conference:
 
-  ✅: I prefer to attend a conference in person, but virtual conferences are 100% okay during this strange time we live in.
-  ✅: I like a conference committed to diversity in speakers and attendees.
-  ✅: I like a conference with a strong Code of Conduct that ensures a great experience for everyone.
+ * ✅: I prefer to attend a conference in person, but virtual conferences are 100% okay during this strange time we live in.
+ * ✅: I like a conference committed to diversity in speakers and attendees.
+ * ✅: I like a conference with a strong Code of Conduct that ensures a great experience for everyone.
 
 ## :dancer: My deliveries at your event
 
