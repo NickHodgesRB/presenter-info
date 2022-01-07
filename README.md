@@ -29,7 +29,7 @@ In case you are interested in seeing me in action, here are some talks I liked:
 > Nick Hodges is the Developer Advocate for Rollbar and has been in love with code since he wrote crude text-based adventure games in BASIC using paper tape and a TTY Model 33.  Nick really got going with software development when he picked up a copy of Turbo Pascal for Windows and followed that on with Delphi.  Currently Nick is interested in Typescript and Angular development. He's a passionate Minnesota sports fan -- especially the Timberwolves -- as he grew up and went to college in the Land of 10,000 Lakes.  He currently lives in Phoenixville, PA.
 
 
-## :love_letter: I am available for...
+## :love_letter: I am available, both in person and virtually, for...
 
 - [x] Keynotes
 - [x] Talks
@@ -40,13 +40,13 @@ In case you are interested in seeing me in action, here are some talks I liked:
 
 ## :gift: Subjects I cover...
 
-- [x] Error Tracking, Logging, and Observability
+- [x] Rollbar Technologies
+- [X] Error Tracking, Logging, and Observability
 - [x] Scrum, Agile, and the SDLC
 - [x] SaaS Development
 - [x] Development practices and culture
-- [x] Developer Relations
-- [x] Community building
-- [x] Development tools
+- [x] Test-driven Development
+- [x] Dependency Injection
 
 ## :collision: Stuff I Like in a Conference
 
