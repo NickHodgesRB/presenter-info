@@ -1,8 +1,6 @@
-For an HTML version, check [here](https://nickhodgesRB.github.io/presenter-terms/)
-
 # Nick Hodges Speaking Information
 
-Hello Nick Hodges here and I am happy that you are interested in me speaking at your event. I thought that this page might be of use to you in getting all the information you need to make things go as smoothly as possible.
+Hello! Nick Hodges here, and I am happy that you are interested in me speaking at your event. Attending and presenting at conferences is one of my favorite things to do.  I thought that this page might be of use to you in getting all the information you need to make things go as smoothly as possible.
 ## :wave: Personal information
 
 * **Name:** Nick Hodges
@@ -22,7 +20,13 @@ In case you are interested in seeing me in action, here are some talks I liked:
 
 ## :pencil: Presenter Bio
 
->
+### Full Bio
+
+> Nick Hodges is the Developer Advocate for Rollbar and has been in love with code since he wrote crude text-based adventure games in BASIC using paper tape and a TTY Model 33.  Nick really got going with software development when he picked up a copy of Turbo Pascal for Windows and followed that on with Delphi.  Currently Nick is interested in Typescript and Angular development.  Nick has a BA in Classical Languages from Carleton College and an MS in Information Technology Management from the Naval Postgraduate School.  In his career he has been a busboy, a cook, a caddie, a telemarketer (for which he apologizes), an Office Manager, a high school teacher, a Naval Intelligence officer, a software developer, a product manager, and a software development manager. He's a passionate Minnesota sports fan -- especially the Timberwolves -- as he grew up and went to college in the Land of 10,000 Lakes.  He currrently lives in Phoenixville, PA.
+
+### 200 Word Bio
+
+> > Nick Hodges is the Developer Advocate for Rollbar.  A long time Delphi Developer, Nick is currently interested in Typescript and Angular development.    He lives in Phoenixville, PA.
 
 ## :love_letter: I am available for...
 
@@ -102,30 +106,4 @@ Even with the best intentions, there may be trouble and I might not be available
 
 ## :camera: Presenter Headshots
 
-[![Chris Heilmann at TDC](/photos/thumb-chris-tdc.jpg)](/photos/chris-tdc.jpg)
-[![Chris Heilmann at EnterJS](/photos/thumb-chris-heilmann-enterjs-cropped.jpg)](/photos/chris-heilmann-enterjs-cropped.jpg)
-[![Chris Heilmann on stage at EnterJS](/photos/thumb-chris-heilmann-enterjs-live-cropped.jpg)](/photos/chris-heilmann-enterjs-live-cropped.jpg)
-[![Chris Heilmann on Surface Book](/photos/thumb-chris-heilmann-on-surface-book.jpg)](/photos/chris-heilmann-on-surface-book.jpg)
-[![Chris Heilmann at Smashingconf](/photos/thumb-chris-heilmann-dotted-shirt-microphone.jpg)](/photos/chris-heilmann-dotted-shirt-microphone.jpg)
-[![Chris Heilmann at Internet Days](/photos/thumb-chris-heilmann-internetdagarna2016.jpg)](/photos/chris-heilmann-internetdagarna2016.jpg)
-[![Chris Heilmann Peeking](/photos/thumb-chris-heilmann-tie-peeking.jpg)](/photos/chris-heilmann-tie-peeking.jpg)
-[![Chris Heilmann at Great Wide Open](/photos/thumb-chris-heilmann-great-wide-open.jpg)](/photos/chris-heilmann-great-wide-open.jpg)
-[![Chris Heilmann at TEDx Thessaloniki](/photos/thumb-chris-heilmann-tedx-open.jpg)](/photos/chris-heilmann-tedx-open.jpg)
-[![Chris Heilmann at TEDx Thessaloniki](/photos/thumb-chris-heilmann-tedx-thumbs.jpg)](/photos/chris-heilmann-tedx-thumbs.jpg)
-[![Chris Heilmann Mozilla shirt](/photos/thumb-chris-heilmann-hasgeek-mozilla.jpg)](/photos/chris-heilmann-hasgeek-mozilla.jpg)
-[![Chris Heilmann Mozilla shirt](/photos/thumb-chris-heilmann-black-polo.jpg)](/photos/chris-heilmann-black-polo.jpg)
-[![Chris Heilmann Credit Suisse Photoshoot Street](/photos/thumb-chris-street.jpg)](/photos/chris-street.jpg)
-[![Chris Heilmann Credit Suisse Photoshoot Mobile](/photos/thumb-chris-mobile.jpg)](/photos/chris-mobile.jpg)
-[![Chris Heilmann Credit Suisse Photoshoot tablet](/photos/thumb-chris-tablet.jpg)](/photos/chris-tablet.jpg)
-[![Chris Heilmann Credit Suisse Photoshoot](/photos/thumb-chris-credit.jpg)](/photos/chris-credit.jpg)
-
-## :copyright: Photo licenses and information:
-
-* Bin and black Fred Perry sweater photo by [Wil Lee-Wright Photography](http://trondheimphoto.no)
-* Tie and Internet photo: https://www.flickr.com/photos/stiftelsen/31116017256/
-* Dotted shirt and headset: https://www.flickr.com/photos/marcthiele/31398799070/
-* Black shirt and clicker: https://www.flickr.com/photos/124087764@N06/25684379484/
-* White shirt open gesture: https://www.flickr.com/photos/tedxthess/14306326115/in/photostream/
-* White shirt thumbs: https://www.flickr.com/photos/tedxthess/14304426622
-* Mozilla shirt smile: https://www.flickr.com/photos/hasgeek/9928238174/
-* Black polo: https://www.flickr.com/photos/szene/8900138988/
+[![Nick Hodges Looking Askance](/photos/NickSideShot.png)](/photos/NickSideShot.png)
