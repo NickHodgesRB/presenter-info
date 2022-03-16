@@ -7,6 +7,7 @@ Hello! Nick Hodges here, and I am happy that you are interested in me speaking a
 * **Company:** Rollbar
 * **Job Title:** Developer Advocate
 * **Twitter:** [@nickhodges](https://twitter.com/nickhodges)
+* **LinkedIn:** [https://www.linkedin.com/in/nickhodges/](https://www.linkedin.com/in/nickhodges/)
 * **Blog/Homepage:** https://www.nickhodges.com
 * **Location:** Phoenixville, PA, USA
 
