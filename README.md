@@ -47,7 +47,7 @@ In case you are interested in seeing me in action, here are some talks I liked:
 - [x] SaaS Development
 - [x] Development practices and culture
 - [x] Test-driven Development
-- [x] Dependency Injection
+- [x] Developer Productivity
 
 ## :collision: Stuff I Like in a Conference
 
