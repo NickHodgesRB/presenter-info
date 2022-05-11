@@ -9,7 +9,7 @@ Hello! Nick Hodges here, and I am happy that you are interested in me speaking a
 * **Twitter:** [@nickhodges](https://twitter.com/nickhodges)
 * **LinkedIn:** [https://www.linkedin.com/in/nickhodges/](https://www.linkedin.com/in/nickhodges/)
 * **Blog/Homepage:** https://www.nickhodges.com
-* **Location:** Phoenixville, PA, USA
+* **Location:** West Chester, PA, USA
 
 <!-- ## :vhs: Videos of note
 
